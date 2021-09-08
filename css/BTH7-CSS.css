@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-image: url("images/bg4.jpg");
+}
+table {
+	width: 1000px;
+	background-image: url("images/bg5.jpg");
+}
